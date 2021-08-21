@@ -1,5 +1,6 @@
 # Chess
-created by XS
+
+Origanl Chess Game Code created by xsanon
 
 A simple command line chess game using Python
 
